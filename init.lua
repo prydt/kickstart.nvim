@@ -981,7 +981,7 @@ require('lazy').setup({
     end,
     keys = {
       {
-        's',
+        'gs',
         function()
           require('pounce').pounce {}
         end,
